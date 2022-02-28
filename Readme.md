@@ -16,11 +16,13 @@ Build script simple for read log file from run `flutter test --machine` my idea 
 
 ### **How to start**
 <hr/>
+
 ```sh
 > npm install or npm ci
 > node index.js ./example-machine.log --total # log summary only
 > node index.js ./example-machine.log # detail log each case
 ```
+
 <br/>
 <br/>
 
